@@ -17,7 +17,7 @@ const PrivacyPolicy = () => {
   return (
     <div className=" mt-5">
       <h1>Privacy Policy for Site Management System Mobile App</h1>
-      <p>Last Updated: [Date]</p>
+      <p>Last Updated: 13 September, 2023</p>
 
       <p>Welcome to Site Management System ("we," "our," or "us"). This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application ("App"). We are committed to protecting your privacy and ensuring the security of your personal information.</p>
 
